@@ -1,0 +1,13 @@
+.lrecette{
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    background-color: bisque;
+}
+.titre{
+    color: coral;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    font-size: xx-large;
+    text-underline-offset: ;
+}
